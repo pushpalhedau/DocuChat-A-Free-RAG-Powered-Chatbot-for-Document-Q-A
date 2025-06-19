@@ -24,7 +24,7 @@ from IPython.display import display
 uploaded = files.upload()
 
 # Load the uploaded file (replace filename if different)
-loader = PyPDFLoader("forescout_platform_administration_guide_v8.5.1_7-19-2024.pdf")
+loader = PyPDFLoader("ENTER THE UPLOADED FILE NAME")
 documents = loader.load()
 
 # Split into chunks (500 characters with 50 overlap)
