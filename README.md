@@ -25,3 +25,6 @@ The entire chatbot system was deployed using Gradio, which provides an easy-to-u
 
 I hosted the application on Google Colab, allowing for a free, browser-accessible environment to test and demonstrate the chatbot.
 
+# Screenshot of the Project:
+
+![Screenshot 2025-06-19 121051](https://github.com/user-attachments/assets/1dcc417a-d240-4a16-9d35-259f4fd9068a)
